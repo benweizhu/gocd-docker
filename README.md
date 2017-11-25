@@ -1,3 +1,3 @@
 # GOCD Docker
 
-Java Environment
+ThoughtWork GoCD with Docker and Java 8
